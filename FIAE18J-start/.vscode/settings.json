@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.env.windows": {
+        "PATH": "C:\\Users\\Lukas\\.platformio\\penv\\Scripts;C:\\Users\\Lukas\\.platformio\\penv;C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Program Files\\Git\\cmd;C:\\wamp64\\bin\\php\\php7.2.4;C:\\ProgramData\\ComposerSetup\\bin;C:\\Program Files (x86)\\PuTTY\\;C:\\Users\\Lukas\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\Lukas\\AppData\\Roaming\\Composer\\vendor\\bin;C:\\Program Files (x86)\\Microsoft VS Code\\bin;C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Program Files\\Git\\cmd;C:\\wamp64\\bin\\php\\php7.2.4;C:\\ProgramData\\ComposerSetup\\bin;C:\\Program Files (x86)\\PuTTY\\;C:\\Users\\Lukas\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\Lukas\\AppData\\Roaming\\Composer\\vendor\\bin;C:\\Program Files (x86)\\Microsoft VS Code\\bin",
+        "PLATFORMIO_CALLER": "vscode"
+    }
+}
